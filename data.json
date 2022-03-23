@@ -1,4 +1,7 @@
 {
     "name":"Malki",
-    "age":5
+    "age":5,
+    "city":"LA",
+    "sisters":2
+
 }
